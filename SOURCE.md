@@ -22,4 +22,5 @@ PHARRELLWILLIAMS.COM
 
 COLUMBIARECORDS.COM
 
-[sony-logo.png]
+**[sony-logo.png]
+**
